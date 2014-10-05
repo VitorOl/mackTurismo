@@ -7,4 +7,5 @@ public class Passagem {
 	Assento assento = new Assento();
 	
 	assento = null;
+	Assento assento2 = new Assento();
 }
