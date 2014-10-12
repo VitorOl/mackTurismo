@@ -5,6 +5,6 @@ import java.util.List;
 
 public class Assento {	
 	
-	List<Integer> assentos = new ArrayList<Integer>();
+	List<Integer> assentos;
 
 }
