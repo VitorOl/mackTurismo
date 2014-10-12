@@ -13,6 +13,10 @@ public class Voo {
 		this.vooDesejado = vooDesejado;
 	}
 	
+	public Voo() {
+		// TODO Auto-generated constructor stub
+	}
+
 	public void calculaVoo() {
 		
 		this.valorTotal = data.calculaData() + classeDeVoo.calculaClasse() + vooDesejado.calculaOpcaoVoo();
