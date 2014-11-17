@@ -1,5 +1,9 @@
-package Model;
-
+package model;
+/**
+ * @author  Vitor, Lígia e Salomão
+ * Classe responsável por representar os passageiros no sistema
+ *
+ */
 public class Passageiro {
 	
 	private String nome;
